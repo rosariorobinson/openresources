@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Open Resources
 
-You can use the [editor on GitHub](https://github.com/rosariorobinson/openresources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In the name of collaboration, and with so many of requests of having one stop shop for open resources, this page serves as a starter
+and motivation for others to contribute their resources as well. Feel free to submit a PR and add your resources, but also Fork if you have a similar project you want to start at your organization or school.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Community Open Source Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Systers Github Projects](http://systers.io/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Open Communities
+[opensource.com](https://opensource.com/)
+[Systers Open Source Slack](http://systers.io/slack-systers-opensource/)
 
-- Bulleted
-- List
+# Cool Open Initiatives
+[NASA}(https://github.com/nasa)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosariorobinson/openresources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
