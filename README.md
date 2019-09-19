@@ -14,5 +14,5 @@ and motivation for others to contribute their resources as well. Feel free to su
 [Systers Open Source Slack](http://systers.io/slack-systers-opensource/)
 
 # Cool Open Initiatives
-[NASA}(https://github.com/nasa)
+[NASA](https://github.com/nasa)
 
