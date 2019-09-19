@@ -7,7 +7,10 @@ and motivation for others to contribute their resources as well. Feel free to su
 ## Community Open Source Projects
 
 [Systers Github Projects](http://systers.io/)
-
+[Jupyter](https://jupyter.org/)
+[Open Compute Project](https://www.opencompute.org/)
+[Kubernetes](https://kubernetes.io/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
 # Open Communities
 [opensource.com](https://opensource.com/)
