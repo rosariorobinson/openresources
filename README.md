@@ -5,10 +5,7 @@ and motivation for others to contribute their resources as well. Feel free to su
 
 
 ## Community Open Source Projects
-
 [Systers Github Projects](http://systers.io/)  
-[Jupyter](https://jupyter.org/)  
-[Open Compute Project](https://www.opencompute.org/)  
 [Kubernetes](https://kubernetes.io/)  
 [Visual Studio Code](https://code.visualstudio.com/)  
 
@@ -17,5 +14,9 @@ and motivation for others to contribute their resources as well. Feel free to su
 [Systers Open Source Slack](http://systers.io/slack-systers-opensource/)  
 
 # Cool Open Initiatives
+[Jupyter](https://jupyter.org/)  
+[Open Compute Project](https://www.opencompute.org/) 
+[Open Cybersecurity Alliance](https://opencybersecurityalliance.org/)  
+[AI 4 All](http://ai-4-all.org/)  
 [NASA](https://github.com/nasa)  
 
