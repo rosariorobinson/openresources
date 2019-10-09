@@ -15,7 +15,7 @@ and motivation for others to contribute their resources as well. Feel free to su
 
 # Cool Open Initiatives
 [Jupyter](https://jupyter.org/)  
-[Open Compute Project](https://www.opencompute.org/) 
+[Open Compute Project](https://www.opencompute.org/)  
 [Open Cybersecurity Alliance](https://opencybersecurityalliance.org/)  
 [AI 4 All](http://ai-4-all.org/)  
 [NASA](https://github.com/nasa)  
