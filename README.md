@@ -16,6 +16,8 @@ and motivation for others to contribute their resources as well. Feel free to su
 
 
 # Cool Open Initiatives
+[Sahana Eden](https://sahanafoundation.org/)  
+[Tidepool](https://www.tidepool.org/)
 [Jupyter](https://jupyter.org/)  
 [Open Compute Project](https://www.opencompute.org/)  
 [Open Cybersecurity Alliance](https://opencybersecurityalliance.org/)  
@@ -24,6 +26,8 @@ and motivation for others to contribute their resources as well. Feel free to su
 [Awesome Natives In Tech](https://github.com/nativesintech/awesome-natives-in-tech)  
 [Muscogee Creek Dictionary Admin](https://github.com/nativesintech/muscogee-creek-dictionary-admin)  
 [Mukurtu CMS 2.1](https://mukurtu.org/)  
+[OptiKey](https://github.com/OptiKey/OptiKey)  
+[TerraStories](https://github.com/rubyforgood/terrastories)  
 
 
 # Open Source Education
