@@ -32,6 +32,7 @@ and motivation for others to contribute their resources as well. Feel free to su
 
 
 # Open Source Education
+[Software Carpentries](https://software-carpentry.org/)
 [Teaching Open Source](http://teachingopensource.org/)  
 [Open Source Education](https://opensource.org/osi-open-source-education)  
 [Open Source in Education](https://www.redhat.com/en/about/open-source-education)  
