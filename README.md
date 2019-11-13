@@ -17,8 +17,8 @@ and motivation for others to contribute their resources as well. Feel free to su
 
 # Cool Open Initiatives
 [Sahana Eden](https://sahanafoundation.org/)  
-[Ushahidi](http://github.ushahidi.org/)
-[Tidepool](https://www.tidepool.org/)
+[Ushahidi](http://github.ushahidi.org/)  
+[Tidepool](https://www.tidepool.org/)  
 [Jupyter](https://jupyter.org/)  
 [Open Compute Project](https://www.opencompute.org/)  
 [Open Cybersecurity Alliance](https://opencybersecurityalliance.org/)  
